@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    margin-top: 2%;
+  }
+
+  .main-logo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .page1 {
+    height: 2150px;
+  }
+  
+  .container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: start;
+    /* flex-direction: row; */
+    
+    /* flex-flow: column wrap; */
+    /* justify-content: center; */
+    /* height: 800px; */
+    /* align-items: center; */
+    
+    /* height: 400px; */
+    
+  }
+
+
+
+  
+  .starter-top {
+    background-color: #6faf82;
+    width: 45%;
+    height:28.5%
+  }
+  
+  .soups {
+    width: 35%;
+    height:28.5%;
+    border: solid red;
+    border-width: 5px;
+    border-radius: 2%;
+    
+  }
+  
+  .starter-bottom {
+    background-color: #72f2d0;
+    width: 25%;
+    height: 50%;
+  }
+  
+  .carppaccios {
+    background-color: #59d7d9;
+    width: 55%;
+    height: 38.5%;
+  }
