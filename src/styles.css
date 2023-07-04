@@ -160,7 +160,7 @@ p{
   .soup {
   
     width: 90%;
-    height: 25%;
+    height: 22%;
     display: flex;
   }
   .soup-description{
@@ -176,6 +176,12 @@ p{
   }
   .icon-number-soup img{
     width: 20px;
+  }
+  .s-circle{
+    padding-left: 25%;
+  }
+  .miso{
+    padding-top: 2.5%;
   }
   
   .starter-bottom {
@@ -203,5 +209,5 @@ p{
     margin-top: 7%;
   }
   .no-img{
-    padding-left: 20%;
+    padding-left: 40%;
   }
