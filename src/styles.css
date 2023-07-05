@@ -12,19 +12,18 @@ h1{
     font-weight: 300;
     letter-spacing: 0.1em;
 }
+
 h2{
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 2em;
     letter-spacing: 0.075em;
 }
+
 p{
     margin-top: 0px;
     margin-bottom: 0px;
-
 }
-
-
 
   .main-logo{
     display: flex;
@@ -42,55 +41,33 @@ p{
     flex-wrap: wrap;
     justify-content: space-around;
     align-content: start;
-    /* flex-direction: row; */
-    
-    /* flex-flow: column wrap; */
-    /* justify-content: center; */
-    /* height: 800px; */
-    /* align-items: center; */
-    
-    /* height: 400px; */
-    
   }
 
   .starter-top {
-  
     width: 45%;
     height:37%;
     display: flex;
     flex-wrap: wrap;
-
   }
 
   .starter-title {
- 
     width: 80%;
     height: 25%;
     padding-left: 15%;
   }
+
   .starter-title h1{
     margin-top: 4%;
   }
   
   .starter {
-  
     width: 90%;
     height: 17%;
     display: flex;
   }
 
   .icon-number{
-  
     width: 17.5%;
-
-    vertical-align: baseline;
-    text-align: center;
-  }
-
-  .icon-number-soup{
-  
-    width: 20%;
-
     vertical-align: baseline;
     text-align: center;
   }
@@ -99,12 +76,19 @@ p{
     display: block;
     font-size: 1.75em;
   }
+
   .icon-number img{
     width: 20px;
   }
+
+  .icon-number-soup{
+    width: 20%;
+    vertical-align: baseline;
+    text-align: center;
+  }
+  
   .info{
     width: 82.5%;
-    
   }
 
   .no-des{
@@ -117,20 +101,24 @@ p{
     color: red;
     font-weight: 400;
   }
+
   .seeyou-space{
     padding-top: 8%;
   }
+
   .description{
     font-size: 1.25em;
     font-weight: 100;
     font-style: italic;
     letter-spacing: 0.1em;
   }
+
   .currency{
     font-size: 1.4em;
     font-weight: 500;
     letter-spacing: 0.1em;
   }
+
   .usd{
     font-size: 0.75em;
     font-weight: 100;
@@ -143,27 +131,25 @@ p{
     border: solid red;
     border-width: 5px;
     border-radius: 2%;
-    
   }
   
-  
   .soup-title {
-   
     width: 80%;
     height: 25%;
     padding-left: 15%;
   }
+
   .soup-title h1{
-    
     padding-top: 4%;
     padding-left: 3%;
   }
+
   .soup {
-  
     width: 90%;
     height: 22%;
     display: flex;
   }
+
   .soup-description{
     font-size: 0.75em;
     font-weight: 100;
@@ -171,30 +157,35 @@ p{
     letter-spacing: 0.1em;
     color: rgb(35, 35, 226);
   }
+
   .icon-number-soup span{
     display: block;
     font-size: 1.75em;
   }
+
   .icon-number-soup img{
     width: 20px;
   }
+
   .icon-number-b span{
     display: block;
     font-size: 1.75em;
     padding-right: 15%;
   }
+
   .icon-number-b img{
     width: 20px;
   }
+
   .s-circle{
     padding-left: 25%;
   }
+
   .miso{
     padding-top: 2.5%;
   }
   
   .starter-bottom {
-
     width: 37.5%;
     height: 65%;
     display: flex;
@@ -203,24 +194,25 @@ p{
     align-content: end;
     margin-left: 1.5%;
   }
+
   .starter-b {
-  
     width: 83%;
     height: 11.85%;
     display: flex;
     justify-content: space-between;
   }
+
   .icon-number-b{
-  
     width: 17%;
 
     vertical-align: baseline;
     text-align: center;
   }
+
   .info-b{
     width: 80%;
-    
   }
+
   .description-b{
     font-size: 0.75em;
     font-weight: 100;
@@ -229,43 +221,47 @@ p{
   }
   
   .carppaccios {
- 
     width: 55%;
     height: 52.5%;
   }
+
   .carpaccios-title {
- 
     width: 85%;
     height: 25%;
     padding-left: 13.5%;
     text-align: end;
   }
+
   .carpaccios-title h1{
     display: inline-block;
     margin-top: 7%;
   }
+
   .carpaccios-sub{
     display: flex;
     width: 100%;
     height: 75%;
     flex-direction: column;
   }
+
   .carpaccios-upper-rows{
     width: 100%;
     height: 22.5%;
     display: flex;
   }
+
   .carpaccios-lower-rows{
     width: 100%;
     height: 27.5%;
     display: flex;
   }
+
   .carpaccios-img{
     width: 30%;
     height: 100%;
     text-align: end;
-
   }
+
   .carpaccios-icon-number{
     width: 10%;
     height: 100%;
@@ -277,30 +273,37 @@ p{
     display: block;
     font-size: 1.75em;
   }
+
   .carpaccios-icon-number img{
     width: 20px;
   }
+
   .carpaccios-item{
     width: 60%;
     height: 100%;
   }
+
   .carpaccios-item h2{
     letter-spacing: 0.1em;
   }
+
   .no-img{
     padding-left: 40%;
   }
+
   .no-img-b{
     padding-left: 20%;
-    
   }
+
   .c-img{
     height: 100%;
   }
+
   .shrimp{
     width: 40%;
     padding-left: 8%;
   }
+  
   .thick{
     border-top: 5px solid #8c8b8b;
     margin-top: 3%;
