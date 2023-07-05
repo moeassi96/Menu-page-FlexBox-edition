@@ -231,7 +231,7 @@ p{
   .carppaccios {
  
     width: 55%;
-    height: 38.5%;
+    height: 45%;
   }
   .carpaccios-title {
  
@@ -244,10 +244,56 @@ p{
     display: inline-block;
     margin-top: 7%;
   }
+  .carpaccios-sub{
+    display: flex;
+    width: 100%;
+    height: 75%;
+    flex-direction: column;
+  }
+  .carpaccios-upper-rows{
+    width: 100%;
+    height: 22.5%;
+    display: flex;
+  }
+  .carpaccios-lower-rows{
+    width: 100%;
+    height: 27.5%;
+    display: flex;
+  }
+  .carpaccios-img{
+    width: 30%;
+    height: 100%;
+    text-align: end;
+
+  }
+  .carpaccios-icon-number{
+    width: 10%;
+    height: 100%;
+    vertical-align: baseline;
+    text-align: center;
+  }
+
+  .carpaccios-icon-number span{
+    display: block;
+    font-size: 1.75em;
+  }
+  .carpaccios-icon-number img{
+    width: 20px;
+  }
+  .carpaccios-item{
+    width: 60%;
+    height: 100%;
+  }
+  .carpaccios-item h2{
+    letter-spacing: 0.1em;
+  }
   .no-img{
     padding-left: 40%;
   }
   .no-img-b{
     padding-left: 20%;
     
+  }
+  .c-img{
+    height: 100%;
   }
