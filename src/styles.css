@@ -33,7 +33,7 @@ p{
   }
   
   .page1 {
-    height: 2150px;
+    height: 1700px;
   }
   
   .container {
@@ -56,7 +56,7 @@ p{
   .starter-top {
   
     width: 45%;
-    height:28.5%;
+    height:37%;
     display: flex;
     flex-wrap: wrap;
 
@@ -139,7 +139,7 @@ p{
 
   .soups {
     width: 35%;
-    height:28.5%;
+    height:37%;
     border: solid red;
     border-width: 5px;
     border-radius: 2%;
@@ -196,7 +196,7 @@ p{
   .starter-bottom {
 
     width: 37.5%;
-    height: 50%;
+    height: 65%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -231,7 +231,7 @@ p{
   .carppaccios {
  
     width: 55%;
-    height: 45%;
+    height: 52.5%;
   }
   .carpaccios-title {
  
@@ -296,4 +296,12 @@ p{
   }
   .c-img{
     height: 100%;
+  }
+  .shrimp{
+    width: 40%;
+    padding-left: 8%;
+  }
+  .thick{
+    border-top: 5px solid #8c8b8b;
+    margin-top: 3%;
   }
